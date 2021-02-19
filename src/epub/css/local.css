@@ -35,17 +35,11 @@
 	display: none;
 }
 
-[epub|type~="z3998:poem"] p + p,
-[epub|type~="z3998:verse"] p + p,
-[epub|type~="z3998:song"] p + p,
-[epub|type~="z3998:hymn"] p + p{
-	margin-top: 1em;
-}
-
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
 }
+
 /* All dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
@@ -83,4 +77,3 @@ section[epub|type~="dedication"] b{
 	font-size: 1.5em;
 	line-height: 2em;
 }
-

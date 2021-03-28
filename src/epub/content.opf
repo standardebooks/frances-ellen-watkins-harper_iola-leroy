@@ -58,18 +58,18 @@
 		<dc:creator id="author">Frances Ellen Watkins Harper</dc:creator>
 		<meta property="file-as" refines="#author">Harper, Frances Ellen Watkins</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Frances_Ellen_Watkins_Harper</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n50026651</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50026651</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">aft</meta>
 		<dc:contributor id="author-of-introduction">William Still</dc:contributor>
 		<meta property="file-as" refines="#author-of-introduction">Still, William</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-introduction">https://en.wikipedia.org/wiki/William_Still</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction">https://id.loc.gov/authorities/names/n50011351</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction">http://id.loc.gov/authorities/names/n50011351</meta>
 		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">Edward Mitchell Bannister</dc:contributor>
 		<meta property="file-as" refines="#artist">Bannister, Edward Mitchell</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edward_Mitchell_Bannister</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/nr93019948</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr93019948</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>

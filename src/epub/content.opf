@@ -51,7 +51,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/12352</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102402244</dc:source>
-		<meta property="se:word-count">75366</meta>
+		<meta property="se:word-count">74129</meta>
 		<meta property="se:reading-ease.flesch">72.46</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Iola_Leroy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frances-ellen-watkins-harper_iola-leroy</meta>

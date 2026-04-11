@@ -60,6 +60,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Frances_Ellen_Watkins_Harper</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50026651</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">waw</meta>
 		<dc:contributor id="author-of-introduction">William Still</dc:contributor>
 		<meta property="file-as" refines="#author-of-introduction">Still, William</meta>

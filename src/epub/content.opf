@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/frances-ellen-watkins-harper/iola-leroy</dc:identifier>
 		<dc:date>2021-02-23T17:47:48Z</dc:date>
@@ -44,11 +44,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2007100489</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">As the Civil War rages, a young woman living the North is unaware of her African ancestry until she returns to the South and is immediately enslaved.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>As the Civil War rages, a young woman living the North is unaware of her African ancestry until she returns to the South and is immediately enslaved.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;As the Civil War bears down on a small North Carolina town, a tight-knit community of enslaved men and women is preparing for the coming battle and the possibility of freedom. Into this ensemble cast of characters comes Iola Leroy, a young woman who grew up unaware of her African ancestry until she is lured back home under false pretenses and immediately enslaved. Amidst a backdrop of battlefield hospitals and clandestine prayer meetings, this quietly stouthearted novel is a story of community, integrity, and solidarity.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/frances-ellen-watkins-harper"&gt;Frances Ellen Watkins Harper&lt;/a&gt; was already one of the most prominent African-American poets of the nineteenth century when—at age 67—she turned her focus to novels. Her most enduring work, &lt;i&gt;Iola Leroy&lt;/i&gt;, was one of the first novels published by an African-American writer. Although the book was initially popular with readers, it soon fell out of print and was critically forgotten. In the 1970s, the book was rediscovered and reclaimed as a seminal contribution to African-American literature.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/12352</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102402244</dc:source>
